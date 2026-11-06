@@ -1,0 +1,30 @@
+{
+  "entities": {
+    "Veranstaltungen": {
+      "placeholders_set": 4,
+      "defaults_keys": [
+        "beginn"
+      ],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur Stammdaten ohne numerische Felder oder Datumspaare gibt; Beginn erhält heute als Standard."
+    },
+    "Interaktionen": {
+      "placeholders_set": 8,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur Textinhalte und eine Reihenfolgenummer ohne numerische Berechnungskette gibt."
+    },
+    "Teilnehmende": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da es nur Stammdaten und eine Bewertung ohne numerische Berechnungskette gibt."
+    },
+    "Feedbacks": {
+      "placeholders_set": 4,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da das Formular nur Verknüpfungen und Text enthält und keine Datums-, Preis- oder Mengenfelder für eine Berechnung vorhanden sind."
+    }
+  }
+}

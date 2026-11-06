@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "en": {
+      "Abbrechen": "Cancel",
+      "Aktiv": "Active",
+      "Aktivieren": "Activate",
+      "Aktivieren & QR-Code": "Activate & QR code",
+      "Aktivieren hat nicht geklappt — bitte noch einmal versuchen.": "Activation failed — please try again.",
+      "Alle Interaktionen haben schon Feedback.": "All interactions already have feedback.",
+      "Antwort der KI hier einfügen": "Paste the AI response here",
+      "Bei „{0}\" ist noch keine Interaktion aktiv — wähle unten die erste aus.": "No interaction is active for \"{0}\" yet — select the first one below.",
+      "Bei „{0}\" läuft gerade „{1}\" — {2} bisher.": "\"{0}\" is currently running \"{1}\" — {2} so far.",
+      "Bewertung Ø": "Rating avg.",
+      "Die KI-Antwort konnte nicht gespeichert werden.": "The AI response could not be saved.",
+      "Diese Interaktion gehört zu keiner Veranstaltung.": "This interaction doesn't belong to any event.",
+      "Erste Interaktion anlegen": "Create first interaction",
+      "Erste Veranstaltung anlegen": "Create first event",
+      "Feedbacks gesamt": "Total feedback",
+      "Hier sind noch keine Interaktionen — lege die erste an.": "No interactions here yet — create the first one.",
+      "Interaktion": "Interaction",
+      "KI-Antwort einfügen": "Paste AI response",
+      "KI-Antwort gespeichert": "AI response saved",
+      "KI-Antwort ✓": "AI response ✓",
+      "Lege deine erste Veranstaltung an, dann bereitest du die Interaktionen vor.": "Create your first event, then prepare the interactions.",
+      "Neue Veranstaltung": "New event",
+      "Ohne Feedback": "No feedback",
+      "Ohne Frage": "No question",
+      "Ohne Titel": "Untitled",
+      "QR-Code zeigen": "Show QR code",
+      "Speichern": "Save",
+      "Starte mit deiner ersten Veranstaltung. Danach legst du die Interaktionen an, die deine Teilnehmenden per QR-Code beantworten.": "Start with your first event. Then create the interactions your participants answer via QR code.",
+      "Wartet": "Waiting",
+      "Zusammenfassen": "Summarize",
+      "noch keine": "none yet",
+      "zusammengefasst": "summarized",
+      "„{0}\" ist jetzt aktiv": "\"{0}\" is now active"
+    }
+  },
+  "v": 1
+}
